@@ -1,2 +1,3 @@
 echo "hello,RoboMaster!
 众里寻她千百度，慕然回首，那人却在灯火阑珊处！"
+hello
